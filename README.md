@@ -52,8 +52,17 @@ I am a **Full-Stack Developer** with over **3 years of professional experience**
 ---
 
 ### 📊 GitHub Ecosystem
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msoheilsoltani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Soheil's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=msoheilsoltani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Soheil's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoheilsoltani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=msoheilsoltani&theme=tokyonight&hide_border=true" alt="Soheil's Streak" />
 </p>
 
 ---
