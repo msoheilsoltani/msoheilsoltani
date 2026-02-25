@@ -51,22 +51,6 @@ I am a **Full-Stack Developer** with over **3 years of professional experience**
 
 ---
 
-### 📊 GitHub Ecosystem
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=msoheilsoltani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Soheil's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msoheilsoltani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=msoheilsoltani&theme=tokyonight&hide_border=true" alt="Soheil's Streak" />
-</p>
-
----
-
 ### 🌍 Let's Connect
 <p align="center">
   <a href="mailto:soheilsoltani.ga@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -75,3 +59,4 @@ I am a **Full-Stack Developer** with over **3 years of professional experience**
 
 ---
 > 💡 "Mastering the logic behind the code is what differentiates a coder from an architect."
+
